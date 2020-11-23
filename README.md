@@ -25,8 +25,8 @@
   <a href="https://www.jianshu.com/u/37d88b909f3b">
     <img src="https://img.shields.io/badge/🔥%20简书地址-brightness.svg" />
   </a>
-  <a href="https://github.com/getActivity">
-    <img src="https://komarev.com/ghpvc/?username=getActivity&color=brightgreen&label=👁%20Views" />
+  <a href="https://github.com/dahui888">
+    <img src="https://komarev.com/ghpvc/?username=dahui888&color=brightgreen&label=👁%20Views" />
   </a>  
 </p>
 
