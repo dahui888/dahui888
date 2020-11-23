@@ -1,14 +1,14 @@
+### Hello ~ 👋
+
+- 🔭 I’m currently working on Android App development. 
+
+
 <p align="center">
   <a href="https://github.com/getActivity">
     <img src="https://github-readme-stats.vercel.app/api?username=dahui888&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
   </a>
 </p>
 
-### Hello ~ 👋
-
-- 🔭 I’m currently working on Android App development. 
-
-<!-- 开发语言统计不准确，私有仓库无法统计在内 -->
 <p>  
    <br/>
    <br/>
@@ -20,6 +20,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
+
    <br/>
 <p align="center">
   <a href="https://www.jianshu.com/u/37d88b909f3b">
