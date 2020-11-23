@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on Android App development. 
 
-- 🌱 I’m currently learning and sharing on [my blog](https://www.jianshu.com/u/37d88b909f3b), welcome~
+- 🌱 I’m currently learning and sharing on <p align="center"><a href="https://www.jianshu.com/u/37d88b909f3b"><img src="https://img.shields.io/badge/🔥%20简书地址-brightness.svg" /> </a>, welcome~
 
 <!-- 开发语言统计不准确，私有仓库无法统计在内 -->
 <p>  
