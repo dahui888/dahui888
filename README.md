@@ -18,7 +18,7 @@
 </p>
    <br/>
 <p align="center">
-  <a href="https://www.jianshu.com/u/f7bb67d86765">
+  <a href="https://www.jianshu.com/u/37d88b909f3b">
     <img src="https://img.shields.io/badge/🔥%20简书地址-brightness.svg" />
   </a>
   <a href="https://github.com/getActivity">
