@@ -1,6 +1,5 @@
-                                                               ### Hello ~ 👋
 
-                                                               - 🔭 I’m currently working on Android App development. 
+                                            - 🔭 I’m currently working on Android App development. 
 
 
 <p align="center">
