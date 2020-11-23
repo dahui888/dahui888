@@ -1,4 +1,8 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=dahui888&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<p align="center">
+  <a href="https://github.com/getActivity">
+    <img src="https://github-readme-stats.vercel.app/api?username=dahui888&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=vue" />
+  </a>
+</p>
 
 ### Hello ~ 👋
 
