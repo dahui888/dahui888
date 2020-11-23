@@ -5,3 +5,17 @@
 - 🔭 I’m currently working on Android App development. 
 
 - 🌱 I’m currently learning and sharing on [my blog](https://www.jianshu.com/u/37d88b909f3b), welcome~
+
+<!-- 开发语言统计不准确，私有仓库无法统计在内 -->
+<p>  
+   <br/>
+   <br/>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+</p>
+
+
