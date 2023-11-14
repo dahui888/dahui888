@@ -30,3 +30,5 @@
   </a>  
 </p>
 
+### 📈 GitHub Activity Graph:
+![TheMelody github activity graph](https://raw.githubusercontent.com/TheMelody/TheMelody/output/github-contribution-grid-snake.svg)
